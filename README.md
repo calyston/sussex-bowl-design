@@ -13,10 +13,11 @@ Sussex Bowl is a bowling alley in Sussex, Wisconsin, which serves the local comm
 03 - To design a website that coincides with the bowling alley's updated interior
 
 ### Site Map
+![](Site_Map.png)
 
 ### Colours & Typography
 
-![](colours-typography.png)
+![](Colours_Typography.png)
 
 ### Desktop
 ![](desktop/Homepage_Desktop.png)
