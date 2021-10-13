@@ -19,6 +19,7 @@ Sussex Bowl is a bowling alley in Sussex, Wisconsin, which serves the local comm
 ![](colours-typography.png)
 
 ### Desktop
+![](desktop/desktop-home.png)
 
 ### Mobile
 
